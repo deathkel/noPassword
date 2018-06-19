@@ -19,7 +19,6 @@ var keyMap = map[int]string{
 func main() {
 	argsWithoutProg := os.Args[1:]
 	text := ""
-	fmt.Println(argsWithoutProg)
 	for _, arg := range argsWithoutProg{
 		text += string(arg) + " "
 	}
