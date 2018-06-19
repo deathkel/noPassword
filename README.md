@@ -34,7 +34,7 @@
 
 #### 使用
 1. 编译与启动程序
-`cd main && go build`
+`cd main && go build noPassword.go`
 `./noPassword 网易 qweasdzxc`
 
 
