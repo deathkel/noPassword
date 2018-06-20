@@ -11,13 +11,13 @@
 * 其他任意格式
 ### 使用示例
 ```bash
-./noPassword 网易 qweasdzxc
+./noPassword 网易 123456
 
 5cD2mT1kS7oA9yA1eN3sC0fL3fN5nV0a
 
 ### 指定密码长度
 
-./noPassword -l 16 网易 qweasdzxc
+./noPassword -l 16 网易 123456
 
 5cL0aI0hL5tW6jM0
 ```
@@ -35,7 +35,7 @@
 #### 使用
 1. 编译与启动程序
 `cd main && go build noPassword.go`
-`./noPassword 网易 qweasdzxc`
+`./noPassword 网易 123456`
 
 
 2 编译其他平台
