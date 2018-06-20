@@ -40,3 +40,8 @@
 
 2 编译其他平台
 [参考此处](https://blog.csdn.net/panshiqu/article/details/53788067)
+
+
+### 在Alfred中使用
+1. 将plugin\flred中的noPassword.alfredworkflow扩展加入alfred的workflow
+2. 命令示例 `np 网易 qweasdzxc`,按回车复制获得的密码 
