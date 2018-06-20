@@ -44,4 +44,5 @@
 
 ### 在Alfred中使用
 1. 将plugin\flred中的noPassword.alfredworkflow扩展加入alfred的workflow
-2. 命令示例 `np 网易 qweasdzxc`,按回车复制获得的密码 
+2. 命令示例 `np 网易 123456`,按回车复制获得的密码 
+![alfred-example](/resource/img/alfred-example.png)
